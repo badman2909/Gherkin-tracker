@@ -1,0 +1,7 @@
+﻿{
+  "mongoURI": "mongodb://localhost:27017/gherkin-tracker",
+  "jwtSecret": "gherkin-secret-token-2023",
+  "azureDevOps": {
+    "pat": "your_azure_devops_personal_access_token"
+  }
+}
